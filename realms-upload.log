@@ -1,0 +1,7 @@
+Removed world/data/capabilities.dat: not used
+Removed world/DIM-1/poi/r.-1.-1.mca: not used
+Removed world/DIM-1/poi/r.-1.0.mca: not used
+Removed world/DIM-1/poi/r.0.-1.mca: not used
+Removed world/DIM-1/poi/r.0.0.mca: not used
+Removed world/serverconfig/forge-server.toml: not used
+Validated 40488 files, 40482 accepted, 6 rejected.
