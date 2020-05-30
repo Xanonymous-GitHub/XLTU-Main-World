@@ -353,12 +353,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/composter": {
-    "criteria": {
-      "has_wooden_fences": "2019-11-20 18:16:07 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2019-11-20 17:59:05 +0000"
@@ -608,6 +602,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2020-05-30 17:56:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2019-10-31 14:15:21 +0000"
@@ -806,12 +806,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/coal_block": {
-    "criteria": {
-      "has_at_least_9_coal": "2019-11-23 17:01:57 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2019-11-20 17:59:05 +0000"
@@ -923,12 +917,6 @@
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_iron_ingot": "2019-11-16 16:53:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/coal": {
-    "criteria": {
-      "has_at_least_9_coal": "2019-11-23 17:01:57 +0000"
     },
     "done": true
   },
@@ -1228,5 +1216,5 @@
     },
     "done": true
   },
-  "DataVersion": 1976
+  "DataVersion": 2230
 }
