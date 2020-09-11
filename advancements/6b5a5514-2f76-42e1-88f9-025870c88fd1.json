@@ -3712,7 +3712,7 @@
       "minecraft:drowned": "2019-08-21 23:10:51 +0800",
       "minecraft:zombie_villager": "2019-10-31 21:31:40 +0800"
     },
-    "done": true
+    "done": false
   },
   "minecraft:recipes/decorations/brown_glazed_terracotta": {
     "criteria": {
@@ -6330,5 +6330,5 @@
     },
     "done": true
   },
-  "DataVersion": 2567
+  "DataVersion": 2578
 }
